@@ -1,1 +1,5 @@
 *.swp
+.swp
+*/*.swp
+*/.*.swp
+0129/.index.php.swp
