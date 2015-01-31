@@ -9,3 +9,7 @@ foreach ( $array as $el ) {
 }
 
 echo $end . endl;
+
+$first = $array[0];
+
+echo $first . endl;
