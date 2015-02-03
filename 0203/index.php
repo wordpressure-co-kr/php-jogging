@@ -6,3 +6,6 @@
 
 	$diff = array_diff($array, $varray);
 	print_r($diff);
+
+	$end = end( $diff );
+	print_r($end);
