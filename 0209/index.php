@@ -5,3 +5,4 @@
 	echo $b;
 	$c = explode('c', $b);
 	print_r($c);
+
